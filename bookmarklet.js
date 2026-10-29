@@ -1,1 +1,0 @@
-window.location=("tg://msg_url?url="+encodeURIComponent(window.location.href))
